@@ -1,6 +1,6 @@
 <div align="center">
 
-# vCard - Personal portfolio
+# My-vCard - Personal portfolio
 Welcome to My Portfolio!
 About Me
 
@@ -17,6 +17,9 @@ Getting In Touch
 
 I’m always excited to connect! If you’d like to discuss potential collaborations, job opportunities, or just want to chat about tech, feel free to reach out:
 
-    Email: [your.email@example.com]
+    Email: [mureithilewins@gmail.com]
     LinkedIn: Your LinkedIn Profile
     GitHub: Your GitHub Profile
+
+DEMO
+<div href = "https://king-luiz.github.io/Current-Portfolio/">DEMO 
