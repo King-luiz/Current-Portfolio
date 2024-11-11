@@ -19,8 +19,7 @@ I’m always excited to connect! If you’d like to discuss potential collaborat
 
     Email: [ Mureithilewins@gmail.com ]
     GitHub: [ https://github.com/King-luiz ]
-    LinkedIn:
-[https://www.linkedin.com/in/lewins-luiz-b864a5337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ]
+    LinkedIn:[https://www.linkedin.com/in/lewins-luiz-b864a5337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ]
 
 MY DEMO
 <div >
