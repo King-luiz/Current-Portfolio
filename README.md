@@ -17,9 +17,9 @@ Getting In Touch
 
 I’m always excited to connect! If you’d like to discuss potential collaborations, job opportunities, or just want to chat about tech, feel free to reach out:
 
-    Email: [mureithilewins@gmail.com]
+    Email: [ Mureithilewins@gmail.com ]
     LinkedIn: Your LinkedIn Profile
-    GitHub: Your GitHub Profile
+    GitHub: [ https://github.com/King-luiz ]
 MY DEMO
 <div >
     <a href = "https://king-luiz.github.io/Current-Portfolio/">DEMO </a>
