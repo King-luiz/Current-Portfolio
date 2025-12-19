@@ -9,9 +9,9 @@ Skills
 
     Languages: HTML, CSS, JavaScript, Python and Java.
     Frameworks/Libraries:  React and  Node.js
-    Tools: Git, Webpack, [any other tools you frequently use]
-    Databases: [e.g., MongoDB, MySQL, PostgreSQL]
-    Design: [e.g., responsive design, UX/UI principles]
+    Tools: Git, Webpack.
+    Databases: MySQL
+    Design:responsive design, UX/UI principles,Canva
 
 Getting In Touch
 
